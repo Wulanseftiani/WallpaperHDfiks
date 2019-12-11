@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "978467714662",
+    "firebase_url": "https://wallpaperhdfiks.firebaseio.com",
+    "project_id": "wallpaperhdfiks",
+    "storage_bucket": "wallpaperhdfiks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978467714662:android:24da9dca16a62efb7c5fa7",
+        "android_client_info": {
+          "package_name": "com.uas.wallpaperhdfiks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978467714662-ob1d7tb8jrsrjih3h20vktf3830jtbmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uas.wallpaperhdfiks",
+            "certificate_hash": "9d264422f0a78b41e24e921e2f8767a0aa6aca5c"
+          }
+        },
+        {
+          "client_id": "978467714662-tnivcen7pslb9veo4pm88u5sdrddpte8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTikXZUkZl2cLYLLXWaJwmjdzdDjNYYNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978467714662-tnivcen7pslb9veo4pm88u5sdrddpte8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
